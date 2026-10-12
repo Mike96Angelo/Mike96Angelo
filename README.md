@@ -9,6 +9,7 @@ Software engineer since 2013 and team lead, based in Truro, Nova Scotia. I like 
 - Designed a two-tier multi-tenant architecture and its phased migration, cutting infrastructure cost per customer by 65%
 - Designed and built just-in-time, fully audited access to PHI, with HIPAA, PHIPA, PIPEDA, and SOC 2 requirements in mind
 - Built an automated aerial imagery pipeline that handled about 40 TB per week, cutting turnaround from 2–3 weeks to 2–3 days
+
 **What I work with**
  
 TypeScript · JavaScript · Python · React · Node.js · PostgreSQL/PostGIS · MongoDB · OpenSearch · AWS · Docker · CI/CD · data pipelines · geospatial tooling
